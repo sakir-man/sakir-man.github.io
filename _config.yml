@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Abdurro'uf"
+title                    : "Dr. Sakirman, M.S.I"
 title_separator          : "-"
-name                     : &name "Dr. Abdurro'uf"
-description              : &description "Astrophysicist studying galaxy formation and evolution across cosmic time"
+name                     : &name "Dr. Sakirman, M.S.I"
+description              : &description "Researcher in Islamic astronomy, focusing on the legal, astronomical, and calendrical aspects of lunar observation."
 url                      : https://sakir-man.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sakir-man.github.io "
@@ -23,19 +23,19 @@ repository               : "sakir-man.github.io "
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Abdurro'uf"
+  name             : "Dr. Sakirman, M.S.I"
   pronouns         : # example: "she/her"  
-  bio              : "Astrophysicist studying galaxy formation and evolution across cosmic time"
-  location         : "Bloomington, IN, USA"
-  employer         : "Indiana University"
+  bio              : "Researcher in Islamic astronomy, focusing on the legal, astronomical, and calendrical aspects of lunar observation."
+  location         : "Lampung, Indonesia"
+  employer         : "Jurai Siwo University"
   uri              : # URL
-  email            : "fnuabdur@iu.edu" 
+  email            : "sakirman@metrouniv.ac.id" 
 
   # Academic websites
-  arxiv            : "https://ui.adsabs.harvard.edu/search/p_=0&q=author%3A%22Abdurro'uf%22&sort=date%20desc%2C%20bibcode%20desc"
+  arxiv            : "https://sakirmanweb.blogspot.com/"
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-5258-8761"
+  orcid            : "https://orcid.org/0000-0002-9867-6505"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
