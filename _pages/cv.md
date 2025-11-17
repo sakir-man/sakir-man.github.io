@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-**CV**
 My long CV can be seen here
 
 Education
