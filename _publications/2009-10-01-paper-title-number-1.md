@@ -3,7 +3,7 @@ title: "Spirit Budaya Islam Nusantara Dalam Konstruks “Rubu’ Mujayyab"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-Author: 'Sakirman'
+excerpt: 'Author: Sakirman'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
