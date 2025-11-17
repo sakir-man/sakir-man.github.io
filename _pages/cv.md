@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+**CV**
+My long CV can be seen here
+
 Education
 ======
 * Ph.D in Islamic Studies, UIN Walisongo, (2027-2020)
