@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Authors: Syarif, M R, Sakirman, A Syatar, and N Lela.'
 date: 2015-10-01
-venue: 'Journal 1'
+venue: 'Malaysian Journal of Syariah and Law'
 paperurl: 'https://www.researchgate.net/publication/393488403_THE_TRANSFORMATION_OF_RUKYAH_AL-HILAL_INTEGRATING_DIGITAL_IMAGING_TECHNOLOGY_IN_ISLAMIC_MOON_SIGHTING_PRACTICES'
 ---
 
