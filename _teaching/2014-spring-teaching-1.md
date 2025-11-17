@@ -10,11 +10,11 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Tugas 1
 ======
 
-Heading 2
+Tugas 2
 ======
 
-Heading 3
+Tugas 3
 ======
