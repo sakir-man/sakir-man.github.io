@@ -1,7 +1,6 @@
 ---
-title: "Mou Magister HKI dengan UIN Salatiga"
-excerpt: "<img src="/image/portofolio.jpg" alt="Sakirman" width="250" style="border-radius:10px;">
-"
+title: "Portfolio item number 2"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
