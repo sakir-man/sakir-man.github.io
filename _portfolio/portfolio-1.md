@@ -1,6 +1,6 @@
 ---
-title: "MoU Magister HKI dengan UIN Salatiga"
-excerpt: "Penandatangan Kerjasama <br/><img src='/images/buku8.jpg'>"
+title: "Visibilitas Hilal"
+excerpt: "Buku Visibilitas Hilal <br/><img src='/images/buku8.jpg'>"
 collection: portfolio
 ---
 
