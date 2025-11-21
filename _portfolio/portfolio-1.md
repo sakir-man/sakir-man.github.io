@@ -1,6 +1,6 @@
 ---
 title: "Visibilitas Hilal"
-excerpt: "<br/><img src='/images/buku8.jpg'>"
+excerpt: "<img src='/images/buku8.jpg'>"
 collection: portfolio
 ---
 
