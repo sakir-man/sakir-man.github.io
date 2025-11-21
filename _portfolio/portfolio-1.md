@@ -1,6 +1,7 @@
 ---
 title: "Mou Magister HKI dengan UIN Salatiga"
-excerpt: "[Short description of portfolio item number 1<br/><img src='/images/500x300.png'>](https://github.com/sakir-man/sakir-man.github.io/blob/master/images/portofolio.jpeg?raw=true)"
+excerpt: "<img src="/image/portofolio.jpg" alt="Sakirman" width="250" style="border-radius:10px;">
+"
 collection: portfolio
 ---
 
