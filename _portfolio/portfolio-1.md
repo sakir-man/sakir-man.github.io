@@ -1,6 +1,6 @@
 ---
 title: "MoU Magister HKI dengan UIN Salatiga"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/portofolio.png'>"
+excerpt: "Penandatangan Kerjasama <br/><img src='/images/portofolio.png'>"
 collection: portfolio
 ---
 
