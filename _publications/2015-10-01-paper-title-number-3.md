@@ -2,9 +2,9 @@
 title: "The Transformation of Rukyah Al-Hilal: Integrating Digital Imaging Technology in Islamic Moon Sighting Practices"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2025-10-01-paper-title-number-3
 excerpt: 'Authors: Syarif, M R, Sakirman, A Syatar, and N Lela.'
-date: 2025
+date: 2025-10-01
 venue: 'Malaysian Journal of Syariah and Law'
 paperurl: 'https://mjsl.usim.edu.my/index.php/jurnalmjsl/article/view/751/495'
 ---
