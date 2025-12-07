@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Author: Sakirman'
 date: 2010-10-01
-venue: 'Journal 1'
+venue: '‪Al-Manahij: Jurnal Kajian Hukum Islam'
 paperurl: 'https://ejournal.uinsaizu.ac.id/index.php/almanahij/article/view/3190/2108'
 ---
 
