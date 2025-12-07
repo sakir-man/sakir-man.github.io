@@ -3,7 +3,7 @@ title: "The Concept of the Meeting Point of Hisab and Rukyat of the Beginning of
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Author: Sakirman'
 date: 2024-02-17
 venue: 'NIZHAM: Jurnal Studi Keislaman'
 paperurl: 'https://e-journal.metrouniv.ac.id/nizham/article/view/9177/3798'
