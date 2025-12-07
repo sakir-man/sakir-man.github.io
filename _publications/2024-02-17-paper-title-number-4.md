@@ -3,7 +3,7 @@ title: "A Semantic Literature Review on Crescent Visibility: Trends, Models, and
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Author: Sakirman'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'https://journal.walisongo.ac.id/index.php/al-hilal/article/view/26099/6756'
