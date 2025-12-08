@@ -12,7 +12,6 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Daftar Hadir
 ======
-url: https://sakirmanweb.blogspot.com/
 
 RPS
 ======
