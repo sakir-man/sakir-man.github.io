@@ -10,11 +10,17 @@ location: "UIN Jurai Siwo Lampung"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Tugas 1
+Daftar Hadir
 ======
 
-Tugas 2
+RPS
 ======
 
-Tugas 3
+Materi
+======
+
+Tugas
+======
+
+Dokumentasi
 ======
