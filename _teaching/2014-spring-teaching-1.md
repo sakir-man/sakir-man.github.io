@@ -1,9 +1,9 @@
 ---
 title: "Ilmu Falak Lanjutan"
 collection: teaching
-type: "Fakultas Syariah"
+type: "Pascasarjana"
 permalink: /teaching/2025-spring-teaching-1
-venue: "Hukum Keluarga Islam"
+venue: "Magister Hukum Keluarga Islam"
 date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
 ---
