@@ -19,5 +19,5 @@ RPS
 Materi
 ======
 
-title: "Dokumentasi"
+Dokumentasi
 ======
