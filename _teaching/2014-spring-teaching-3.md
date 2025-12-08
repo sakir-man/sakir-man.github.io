@@ -1,5 +1,5 @@
 ---
-title: "Ilmu Falak Lanjutan"
+title: "Praktikum Penyelenggaraan Syariah"
 collection: teaching
 type: "Fakultas Syariah"
 permalink: /teaching/2025-spring-teaching-1
