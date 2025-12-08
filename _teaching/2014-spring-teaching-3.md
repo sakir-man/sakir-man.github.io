@@ -21,3 +21,5 @@ Materi
 
 Dokumentasi
 ======
+
+permalink: https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9
