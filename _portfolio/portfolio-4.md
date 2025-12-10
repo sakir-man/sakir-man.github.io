@@ -1,5 +1,5 @@
 ---
-title: "Visibilitas Hilal: Kajian terhadap Problematika Rukyat, Fisis Hilal, dan Cahaya Syafaq"
+title: "Perkembangan Ilmu Falak Modern"
 excerpt: "<img src='/images/buku5.JPG"
 collection: portfolio
 ---
