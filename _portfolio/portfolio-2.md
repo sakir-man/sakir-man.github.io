@@ -1,5 +1,5 @@
 ---
-title: "Visibilitas Hilal: Kajian terhadap Problematika Rukyat, Fisis Hilal, dan Cahaya Syafaq"
+title: "Waktu Subuh: Integrasi Agama dan Sains"
 excerpt: "<img src='/images/buku8.jpg'>"
 collection: portfolio
 ---
