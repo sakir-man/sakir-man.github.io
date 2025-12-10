@@ -2,7 +2,7 @@
 title: "Ilmu Falak Lanjutan"
 collection: teaching
 type: "Fakultas Syariah"
-permalink: /teaching/2025-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-1.md
 venue: "Hukum Keluarga Islam (Kelas B)"
 date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
