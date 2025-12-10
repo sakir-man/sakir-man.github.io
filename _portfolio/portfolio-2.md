@@ -1,6 +1,6 @@
 ---
 title: "Waktu Subuh: Integrasi Agama dan Sains"
-excerpt: "<img src='/images/buku8.jpg'>"
+excerpt: "<img src='/images/buku7.jpeg'>"
 collection: portfolio
 ---
 
