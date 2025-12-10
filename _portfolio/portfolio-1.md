@@ -1,6 +1,6 @@
 ---
 title: "Visibilitas Hilal: Kajian terhadap Problematika Rukyat, Fisis Hilal, dan Cahaya Syafaq"
-excerpt: "<img src='/images/buku8.jpg'>"
+excerpt: "<img src='/images/buku2021.jpg'>"
 collection: portfolio
 ---
 
