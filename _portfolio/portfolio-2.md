@@ -1,5 +1,5 @@
 ---
-title: "DIALOG KEBERTERIMAAN: Integrasi Agama dan Sains"
+title: "DIALOG KEBERTERIMAAN: Kriteria Imkan ar-Rukyat Neo-MABIMS Menuju Unifikasi Kalender Hijriah"
 excerpt: "<img src='/images/buku7.jpeg'>"
 collection: portfolio
 ---
