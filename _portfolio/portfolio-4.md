@@ -1,6 +1,6 @@
 ---
 title: "Perkembangan Ilmu Falak Modern"
-excerpt: "<img src='/images/buku5.JPG"
+excerpt: "<img src='/images/buku5.JPG'"
 collection: portfolio
 ---
 
