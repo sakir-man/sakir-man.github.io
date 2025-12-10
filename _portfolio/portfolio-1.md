@@ -1,3 +1,4 @@
+This portfolio showcases selected academic works that reflect my journey in research, publications, teaching, and community engagement in the fields of Islamic astronomy and Islamic law.
 ---
 title: "Visibilitas Hilal: Kajian terhadap Problematika Rukyat, Fisis Hilal, dan Cahaya Syafaq"
 excerpt: "<img src='/images/buku8.jpg'>"
