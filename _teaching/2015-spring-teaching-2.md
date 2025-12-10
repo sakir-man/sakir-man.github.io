@@ -16,7 +16,7 @@ Daftar Hadir <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here
 RPS <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here</a>
 ======
 
-Materi <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here</a>
+Materi <a href="https://drive.google.com/drive/folders/1qG0aC4lc0sjyDMxWGFpXFnyK5HVJEBeD?usp=sharing">can be seen here</a>
 ======
 
 Tugas <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here</a>
