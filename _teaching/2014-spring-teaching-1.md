@@ -10,17 +10,17 @@ location: "UIN Jurai Siwo Lampung"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Daftar Hadir
+Daftar Hadir <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen hereg</a> 
 ======
 
-RPS
+RPS <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen hereg</a> 
 ======
 
-Materi
+Materi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen hereg</a> 
 ======
 
-Tugas
+Tugas <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen hereg</a> 
 ======
 
-Dokumentasi
+Dokumentasi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen hereg</a> 
 ======
