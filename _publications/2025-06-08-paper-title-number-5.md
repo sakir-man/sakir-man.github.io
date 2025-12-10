@@ -1,11 +1,11 @@
 ---
-title: "The Concept of the Meeting Point of Hisab and Rukyat of the Beginning of the Hijri Month"
+title: "Reforming Islamic Family Law: The Relevance of Ibn Qayyim al-Jawziyyah's Concept of Legal Change"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'Author: Sakirman'
+excerpt: 'Author: Ayu Sari Ningsih, Nawa Angkasa, Nency Dela Oktora, Sakirman Sakirman, Nyimas Lidya Putri Pertiwi, Ananto Triwibowo'
 date: 2024-02-17
-venue: 'NIZHAM: Jurnal Studi Keislaman'
+venue: 'Jurnal Ilmiah Mizani: Wacana Hukum, Ekonomi Dan Keagamaan'
 paperurl: 'https://e-journal.metrouniv.ac.id/nizham/article/view/9177/3798'
 ---
 
