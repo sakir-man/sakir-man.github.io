@@ -8,7 +8,7 @@ date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course discusses the fundamentals of the philosophy of science, the development of scientific paradigms, as well as the concept of integration-interconnection of knowledge from an Islamic perspective. Students are encouraged to critically examine the relationship between knowledge, religion, and social reality, particularly in the context of Islamic family law. Through writing papers and participating in scientific discussion forums, students are encouraged to think critically, analytically, and integratively in order to develop scientific insights that are relevant to the context of the philosophy of science and the integration of knowledge.
 
 Daftar Hadir <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here</a>
 ======
