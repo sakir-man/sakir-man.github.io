@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My long CV can be seen here
-
-<a href="https://drive.google.com/file/d/1e2tmjTMrLDiJqD2fY4-tfhJyz3q2aZk4/view?usp=drive_link">here</a>
+My long CV can be seen <a href="https://drive.google.com/file/d/1e2tmjTMrLDiJqD2fY4-tfhJyz3q2aZk4/view?usp=drive_link">here</a>
 
 Education
 ======
