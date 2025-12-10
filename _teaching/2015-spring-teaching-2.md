@@ -1,9 +1,9 @@
 ---
 title: "Filsafat Ilmu dan Integrasi Keilmuan"
 collection: teaching
-type: "Magister Hukum Keluarga Islam"
+type: "Pascasarjana"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Kelas A"
+venue: "Magister Hukum Keluarga Islam (Kelas A)"
 date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
 ---
