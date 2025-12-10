@@ -22,5 +22,5 @@ Materi <a href="https://drive.google.com/drive/folders/1qG0aC4lc0sjyDMxWGFpXFnyK
 Tugas <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here</a>
 ======
 
-Dokumentasi <a href="https://photos.app.goo.gl/uyV2eS7XSVgxyBiY9">can be seen hereg</a>
+Dokumentasi <a href="https://photos.app.goo.gl/uyV2eS7XSVgxyBiY9">can be seen here</a>
 ======
