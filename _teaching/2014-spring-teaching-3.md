@@ -3,7 +3,7 @@ title: "Praktikum Penyelenggaraan Syariah"
 collection: teaching
 type: "Fakultas Syariah"
 permalink: /teaching/2025-spring-teaching-1
-venue: "Hukum Keluarga Islam"
+venue: "Hukum Keluarga Islam (Kelas A B C)"
 date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
 ---
