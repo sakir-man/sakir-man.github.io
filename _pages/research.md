@@ -61,3 +61,88 @@ This roadmap outlines the key stages and thematic directions for investigating c
 - Global visibility standards  
 - Multi-disciplinary integrative research
 
+
+---
+
+# 🇮🇩 **Versi Bahasa Indonesia**
+
+# Fokus Penelitian
+
+Penelitian saya berfokus pada:
+
+- Pemodelan visibilitas hilal di atmosfer tropis  
+- Pengaruh cahaya syafaq terhadap deteksi hilal  
+- Integrasi hisab–rukyat dalam sistem kalender Islam  
+- Pengembangan model prediksi dan peta probabilitas visibilitas  
+- Kajian fiqh berbasis data astronomis dan observasional  
+- Pengembangan observasi hilal berbasis masyarakat  
+
+---
+
+# Roadmap Penelitian (Bahasa Indonesia)
+
+## 1. Kajian Dasar Astronomi
+- Geometri Bulan–Bumi–Matahari  
+- Parameter visibilitas utama  
+- Perbandingan model klasik–modern  
+
+## 2. Dampak Atmosfer & Lingkungan
+- Hamburan cahaya senja (syafaq)  
+- Karakter langit tropis  
+- Faktor cuaca & polusi  
+
+## 3. Observasi Lapangan
+- Protokol observasi hilal  
+- Teknik DSLR/CCD  
+- Kolaborasi citizen science  
+
+## 4. Pemodelan Hisab & Simulasi
+- Hisab numerik  
+- Simulasi visibilitas & POD Map  
+- Perbandingan prediksi–observasi  
+
+## 5. Integrasi Hisab–Rukyat
+- Harmonisasi kriteria  
+- Rancangan kalender Islam terpadu  
+- Dialog lembaga & ormas  
+
+## 6. Implikasi Fiqh
+- Analisis hukum berbasis data  
+- Kajian rukyat vs hisab modern  
+- Rekomendasi kebijakan  
+
+## 7. Pengabdian & Pemberdayaan
+- Pelatihan hisab-rukyat  
+- Observasi publik  
+- Platform laporan hilal  
+
+## 8. Teknologi & Inovasi
+- Aplikasi laporan hilal  
+- Basis data nasional  
+- Sensor otomatis  
+
+## 9. Evaluasi & Dampak Kebijakan
+- Efektivitas kriteria  
+- Kolaborasi pemerintah  
+- Penilaian adopsi publik  
+
+## 10. Arah Masa Depan
+- AI deteksi hilal  
+- Model visibilitas global  
+- Standarisasi kalender Hijriah dunia  
+
+---
+
+# Linimasa Penelitian 2025–2030 (Bahasa Indonesia)
+
+- **2025:** Kajian dasar & data syafaq  
+- **2026:** Observasi & modeling  
+- **2027:** Uji kriteria visibilitas  
+- **2028:** Integrasi kalender & fiqh  
+- **2029:** Teknologi & komunitas  
+- **2030:** Kolaborasi internasional  
+
+---
+
+
+
