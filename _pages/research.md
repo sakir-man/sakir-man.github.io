@@ -1,0 +1,63 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+## Research Roadmap: Crescent Visibility & Islamic Astronomy
+
+This roadmap outlines the key stages and thematic directions for investigating crescent visibility (hilal), integrating astronomical, atmospheric, computational, and jurisprudential perspectives.
+
+### 1. Fundamental Study — Astronomical Basis
+- Geometric analysis of Moon–Earth–Sun relationships  
+- Core visibility parameters (elongation, altitude, illumination)  
+- Classical vs modern visibility models
+
+### 2. Atmospheric & Environmental Impact
+- Twilight scattering effects  
+- Sky brightness and tropical atmospheric behaviors  
+- Meteorological influences on visibility
+
+### 3. Observational Astronomy & Fieldwork
+- Standardized observational protocols  
+- Training DSLR & CCD imaging techniques  
+- Citizen science observational networks
+
+### 4. Hisab, Computational Modeling & Simulation
+- Numerical hisab models  
+- Visibility simulations & POD mapping  
+- Case studies of predicted vs observed outcomes
+
+### 5. Integration of Hisab–Rukyat for Calendar System
+- Criteria harmonization  
+- Integrated calendar frameworks  
+- Dialogue with stakeholders
+
+### 6. Jurisprudential (Fiqh) Implications
+- Fiqh analysis of visibility data  
+- Legal frameworks for month determination  
+- Consensus study among scholars
+
+### 7. Community Engagement & Capacity Building
+- Training workshops  
+- Public outreach  
+- Reporting platforms
+
+### 8. Tools & Technology Development
+- Mobile & web applications  
+- Automatic sensors & reporting tools  
+- Open-source software
+
+### 9. Evaluation & Policy Impact
+- Impact assessment  
+- Policy briefs  
+- Implementation feedback
+
+### 10. Future Directions
+- AI assisted detection  
+- Global visibility standards  
+- Multi-disciplinary integrative research
+
