@@ -15,7 +15,7 @@ My long Curriculum Vitae can be seen <a href="https://drive.google.com/file/d/1e
 
 Dosen Fakultas Syariah dan Program Pascasarjana  
 UIN Jurai Siwo Lampung  
-Bidang keahlian: Hukum Islam • Ilmu Falak • Crescent Visibility • Kalender Hijriah
+Bidang keahlian: Ilmu Falak • Crescent Visibility • Kalender Hijriah
 
 ---
 
@@ -26,6 +26,8 @@ Bidang keahlian: Hukum Islam • Ilmu Falak • Crescent Visibility • Kalender
 | 2017–2020 | S3 Studi Islam | UIN Walisongo Semarang | Beasiswa 5000 Doktor Kemenag RI |
 | 2010–2012 | S2 Studi Islam | IAIN Walisongo Semarang | Beasiswa Pascasarjana |
 | 2005–2009 | S1 Hukum Islam | UIN Sunan Kalijaga Yogyakarta | Beasiswa BI |
+
+
 
 ---
 
@@ -43,7 +45,7 @@ Berikut bidang penelitian utama:
  
 ### **Publikasi Pilihan**
 (Beberapa contoh – sisanya otomatis tertaut ke halaman publikasi)
-======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -52,7 +54,7 @@ Berikut bidang penelitian utama:
   
 # **3. Teaching / Pengajaran**
 Daftar lengkap tersedia di halaman **[Teaching](/teaching/)**  
-======
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
