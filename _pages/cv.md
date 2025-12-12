@@ -11,6 +11,24 @@ redirect_from:
 
 My long CV can be seen <a href="https://drive.google.com/file/d/1e2tmjTMrLDiJqD2fY4-tfhJyz3q2aZk4/view?usp=drive_link">here</a>
 
+# **Curriculum Vitae — Dr. Sakirman, S.H.I., M.S.I.**
+
+Dosen Fakultas Syariah dan Program Pascasarjana  
+UIN Jurai Siwo Lampung  
+Bidang keahlian: Hukum Islam • Ilmu Falak • Crescent Visibility • Kalender Hijriah
+
+---
+
+# **1. Education / Pendidikan**
+
+| Tahun | Jenjang | Institusi | Keterangan |
+|------|---------|-----------|------------|
+| 2017–2020 | S3 Studi Islam | UIN Walisongo Semarang | Beasiswa 5000 Doktor Kemenag RI |
+| 2010–2012 | S2 Studi Islam | IAIN Walisongo Semarang | Beasiswa Pascasarjana |
+| 2005–2009 | S1 Hukum Islam | UIN Sunan Kalijaga Yogyakarta | Beasiswa BI |
+
+
+
 Education
 ======
 * Ph.D in Islamic Studies, UIN Walisongo, (2027-2020)
