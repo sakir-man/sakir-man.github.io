@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Professional Services"
+title: "Services"
 permalink: /service/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+**Professional Services**
 A concise overview of academic, scientific, and consultancy services related to Islamic astronomy, Islamic law, and research development.
 
 ---
