@@ -4,11 +4,11 @@ collection: teaching
 type: "Pascasarjana"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Magister Hukum Keluarga Islam (Kelas A)"
-date: 2025-01-01
+date: Semester Ganjil 2025/2026
 location: "UIN Jurai Siwo Lampung"
 ---
 
-This course discusses the fundamentals of the philosophy of science, the development of scientific paradigms, as well as the concept of integration-interconnection of knowledge from an Islamic perspective. Students are encouraged to critically examine the relationship between knowledge, religion, and social reality, particularly in the context of Islamic family law. Through writing papers and participating in scientific discussion forums, students are encouraged to think critically, analytically, and integratively in order to develop scientific insights that are relevant to the context of the philosophy of science and the integration of knowledge.
+Mata kuliah ini membahas dasar-dasar filsafat ilmu, perkembangan paradigma keilmuan, serta konsep integrasi-interkoneksi pengetahuan dalam perspektif Islam. Mahasiswa diajak memahami hubungan antara ilmu pengetahuan, agama, dan realitas sosial, khususnya dalam hukum keluarga Islam. Melalui penulisan makalah dan diskusi ilmiah, mahasiswa dilatih berpikir kritis, analitis, dan integratif sesuai konteks filsafat ilmu dan integrasi keilmuan.
 
 Daftar Hadir <a href="https://elearning.metrouniv.ac.id/pasca/">can be seen here</a>
 ======
