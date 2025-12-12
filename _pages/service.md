@@ -13,7 +13,7 @@ A concise overview of academic, scientific, and consultancy services related to 
 
 ---
 
-🌟 ## **1. Academic & Research Services**
+🌟 **1. Academic & Research Services**
 - Curriculum development in Islamic astronomy and Islamic law  
 - Supervision of undergraduate, master’s, and doctoral research  
 - Research collaboration (crescent visibility, lunar calendar, Islamic law)  
@@ -22,7 +22,7 @@ A concise overview of academic, scientific, and consultancy services related to 
 
 ---
 
-🌙 ## **2. Islamic Astronomy (Falak) Services**
+🌙 **2. Islamic Astronomy (Falak) Services**
 ### *Astronomical Measurements*
 - Qibla direction measurement and verification  
 - Determination of prayer times  
@@ -35,14 +35,14 @@ A concise overview of academic, scientific, and consultancy services related to 
 
 ---
 
-⚖️ ## **3. Islamic Legal Services**
+⚖️ **3. Islamic Legal Services**
 - Expert consultation in Islamic family law  
 - Legal opinions on marriage, inheritance, and nasab  
 - Advisory support for religious courts and institutions  
 
 ---
 
-📝 ## **4. Scientific Publication Services**
+📝 **4. Scientific Publication Services**
 - Academic manuscript editing (English and Indonesian)  
 - Journal selection and publication guidance  
 - Assistance in research writing and data interpretation  
@@ -50,14 +50,14 @@ A concise overview of academic, scientific, and consultancy services related to 
 
 ---
 
-©️ ## **5. Intellectual Property (HaKI) Services**
+©️ **5. Intellectual Property (HaKI) Services**
 - Consultation for copyright registration  
 - Assistance in preparing intellectual property documents  
 - Guidance for research-based products and teaching materials  
 
 ---
 
-💻 ## **6. Digital & Academic Tools**
+💻 **6. Digital & Academic Tools**
 - Development of simple astronomical calculators  
 - Academic website setup and optimization  
 - Data processing, visualization, and simulation support  
