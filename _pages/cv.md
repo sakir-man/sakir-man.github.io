@@ -57,7 +57,6 @@ Bidang keahlian: Ilmu Falak • Crescent Visibility • Kalender Hijriah
 
 - Pelatihan penentuan arah kiblat untuk masjid & pesantren  
 - Pelatihan rukyat hilal tingkat daerah & nasional  
-- Penyuluhan hukum keluarga Islam  
 - Penguatan kapasitas takmir masjid dan masyarakat  
 - Pembinaan sosial-keagamaan masyarakat  
 
@@ -65,13 +64,11 @@ Bidang keahlian: Ilmu Falak • Crescent Visibility • Kalender Hijriah
 
 # **5. Supporting Activities / Penunjang Akademik**
 
+- Editor in Chief Istinbath Jurnal Hukum
 - Reviewer jurnal hukum dan ilmu falak  
-- Moderator dan narasumber seminar nasional & internasional  
 - Penulis buku / book chapter  
 - Konsultan arah kiblat & kalender hijriah  
-- Pengembangan website akademik  
 - Pengelolaan dan pendampingan HaKI (Hak Kekayaan Intelektual) can be seen <a href="https://linktr.ee/Eclipse_Pedia">here</a>
-- Pendampingan publikasi ilmiah  
 - Pembimbing KKN, skripsi, tesis
   
 ---
