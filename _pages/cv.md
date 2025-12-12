@@ -68,7 +68,7 @@ Specialization: Islamic Astronomy • Crescent Visibility • Hijri Calendar
 - Reviewer for journals in Islamic law and astronomy  
 - Book and book-chapter author  
 - Consultant for qibla, prayer times, and Hijri calendar  
-- HaKI (intellectual property) assistance 👉 <a href="https://linktr.ee/Eclipse_Pedia">link</a>  
+- HaKI (intellectual property) assistance   
 
 ---
 
