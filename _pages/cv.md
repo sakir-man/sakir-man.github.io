@@ -28,40 +28,20 @@ Bidang keahlian: Hukum Islam • Ilmu Falak • Crescent Visibility • Kalender
 | 2005–2009 | S1 Hukum Islam | UIN Sunan Kalijaga Yogyakarta | Beasiswa BI |
 
 
+# **2. Research & Publications / Penelitian & Publikasi Ilmiah**
 
-Education
-======
-* Ph.D in Islamic Studies, UIN Walisongo, (2027-2020)
-* M.S. in Islamic Astronomy, IAIN Walisongo, Semarang (2010-2012)
-* B.S. in Islamic Family Law, UIN Sunan Kalijaga, Yogyakarta, (2005-2009)
+Daftar lengkap publikasi tersedia di halaman **[Publications](/publications/)**  
+Berikut bidang penelitian utama:
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+### **Fokus Riset**
+- Visibilitas hilal & cahaya syafaq  
+- Hisab–rukyat dan unifikasi kalender hijriah  
+- Qibla direction & observational astronomy  
+- Integrasi hukum Islam & sains  
+- Metodologi fiqh dan studi hukum Islam
+ 
+### **Publikasi Pilihan**
+(Beberapa contoh – sisanya otomatis tertaut ke halaman publikasi)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
