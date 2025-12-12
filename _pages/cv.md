@@ -88,9 +88,9 @@ Berikut bidang penelitian utama:
 - **Scientific Writing**: jurnal internasional & nasional  
 - **HaKI & Publikasi**: pendampingan publikasi akademik
   
+---
 
 **6. Talk / Narasumber**
-======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
