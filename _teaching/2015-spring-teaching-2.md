@@ -4,7 +4,7 @@ collection: teaching
 type: "Pascasarjana"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Magister Hukum Keluarga Islam (Kelas A)"
-date: Semester Ganjil 2025/2026
+date: 2025-01-10
 location: "UIN Jurai Siwo Lampung"
 ---
 
