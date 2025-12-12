@@ -31,9 +31,6 @@ Bidang keahlian: Ilmu Falak • Crescent Visibility • Kalender Hijriah
 
 # **2. Research & Publications / Penelitian & Publikasi Ilmiah**
 
-Daftar lengkap publikasi tersedia di halaman **[Publications](/publications/)**  
-Berikut bidang penelitian utama:
-
 ### **Fokus Riset**
 - Visibilitas hilal & cahaya syafaq  
 - Hisab–rukyat dan unifikasi kalender hijriah  
