@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Sakirman, M.S.I"
+title                    : "Dr. Sakirman, S.H.I., M.S.I."
 title_separator          : "-"
-name                     : &name "Dr. Sakirman, M.S.I"
+name                     : &name "Dr. Sakirman, S.H.I., M.S.I."
 description              : &description "Researcher in Islamic astronomy, focusing on the legal, astronomical, and calendrical aspects of lunar observation."
 url                      : https://sakir-man.github.io  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "sakir-man.github.io "
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Sakirman, M.S.I"
+  name             : "Dr. Sakirman, S.H.I., M.S.I."
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Islamic astronomy, focusing on the legal, astronomical, and calendrical aspects of lunar observation."
   location         : "Lampung, Indonesia"
