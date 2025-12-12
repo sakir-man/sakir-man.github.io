@@ -8,19 +8,19 @@ date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
 ---
 
-Advanced Ilmu Falak is a course designed to deepen students’ understanding of astronomical principles and their application within Islamic law. This course explores advanced topics such as celestial coordinate systems, orbital mechanics, lunar and solar calculations, spherical trigonometry, and the determination of prayer times, qibla direction, and the Islamic lunar calendar. Students also engage with contemporary issues in Islamic astronomy, including the scientific modeling of hilal visibility, astronomical data analysis, and the use of modern observational instruments and software. Through theoretical study and practical exercises, the course equips students with the analytical skills and technical competence required for professional work in falak institutions, observatories, and Islamic legal bodies that utilize astronomical data.
+Mata kuliah ini memperdalam pemahaman tentang prinsip-prinsip astronomi serta penerapannya dalam penentuan awal bulan kalender Masehi, Hijriah, dan kalender Jawa Islam, baik secara ‘urfi maupun hisab hakiki. Selain teori, mahasiswa juga memahami teknik rukyat dan pemodelan visibilitas hilal, serta dilatih menggunakan instrumen dan perangkat lunak observasi modern. Mata kuliah ini membekali mahasiswa dengan keterampilan analitis dan teknis yang dibutuhkan di lembaga falak, observatorium, maupun institusi hukum Islam.
 
-Daftar Hadir <a href="https://elearning.metrouniv.ac.id/syariah/">can be seen here</a> 
+Daftar Hadir <a href="https://elearning.metrouniv.ac.id/syariah/">klik</a> 
 ======
 
-RPS <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+RPS <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">klik</a> 
 ======
 
-Materi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+Materi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">unduh</a> 
 ======
 
-Tugas <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+Tugas <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">klik</a> 
 ======
 
-Dokumentasi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+Dokumentasi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">lihat</a> 
 ======
