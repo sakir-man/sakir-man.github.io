@@ -27,7 +27,7 @@ Bidang keahlian: Hukum Islam • Ilmu Falak • Crescent Visibility • Kalender
 | 2010–2012 | S2 Studi Islam | IAIN Walisongo Semarang | Beasiswa Pascasarjana |
 | 2005–2009 | S1 Hukum Islam | UIN Sunan Kalijaga Yogyakarta | Beasiswa BI |
 
-
+---
 
 # **2. Research & Publications / Penelitian & Publikasi Ilmiah**
 
@@ -47,6 +47,8 @@ Berikut bidang penelitian utama:
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
   
 # **3. Teaching / Pengajaran**
 Daftar lengkap tersedia di halaman **[Teaching](/teaching/)**  
@@ -55,7 +57,7 @@ Daftar lengkap tersedia di halaman **[Teaching](/teaching/)**
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
-
+---
   
 # **4. Community Service / Pengabdian kepada Masyarakat**
 
