@@ -42,8 +42,6 @@ Berikut bidang penelitian utama:
 - Metodologi fiqh dan studi hukum Islam
  
 ### **Publikasi Pilihan**
-(Beberapa publikasi pilihan: 
-
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -51,7 +49,6 @@ Berikut bidang penelitian utama:
 ---
   
 # **3. Teaching / Pengajaran**
-Daftar lengkap tersedia di halaman **[Teaching](/teaching/)**  
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -94,7 +91,7 @@ Kegiatan PkM yang pernah dilakukan:
 - **HaKI & Publikasi**: pendampingan publikasi akademik
   
 
-- Talks
+**6. Talk / Narasumber**
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
