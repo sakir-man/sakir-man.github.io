@@ -28,6 +28,7 @@ Bidang keahlian: Hukum Islam • Ilmu Falak • Crescent Visibility • Kalender
 | 2005–2009 | S1 Hukum Islam | UIN Sunan Kalijaga Yogyakarta | Beasiswa BI |
 
 
+
 # **2. Research & Publications / Penelitian & Publikasi Ilmiah**
 
 Daftar lengkap publikasi tersedia di halaman **[Publications](/publications/)**  
@@ -54,18 +55,49 @@ Daftar lengkap tersedia di halaman **[Teaching](/teaching/)**
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
   
-Talks
+
+  
+# **4. Community Service / Pengabdian kepada Masyarakat**
+
+Kegiatan PkM yang pernah dilakukan:
+
+- Pelatihan penentuan arah kiblat untuk masjid & pesantren  
+- Pelatihan rukyat hilal tingkat daerah & nasional  
+- Penyuluhan hukum keluarga Islam  
+- Penguatan kapasitas takmir masjid dan masyarakat  
+- Pembinaan sosial-keagamaan masyarakat  
+
+Contoh publikasi PkM:
+- Sakirman dkk. **“Penguatan Kapasitas Mengukur dan Verifikasi Arah Kiblat…”** *GUYUB*, 2023.  
+- Sakirman dkk. **“Pelatihan Penentuan Arah Kiblat bagi Santri PPHQ.”** *DEVOSI*, 2023.
+
+---
+
+# **5. Supporting Activities / Penunjang Akademik**
+
+- Reviewer jurnal hukum dan ilmu falak  
+- Moderator dan narasumber seminar nasional & internasional  
+- Penulis buku / book chapter  
+- Konsultan arah kiblat & kalender hijriah  
+- Pengembangan website akademik  
+- Pengelolaan dan pendampingan HaKI (Hak Kekayaan Intelektual)  
+- Pendampingan publikasi ilmiah  
+- Pembimbing KKN, skripsi, tesis
+  
+- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+---
+
+# **6. Expertise / Keahlian**
+
+- **Islamic Astronomy**: hilal, qibla, prayer times, celestial mechanics  
+- **Islamic Law**: family law, fiqh, legal methodology  
+- **Data Analysis**: hilal modeling, syafaq analysis  
+- **Field Observation**: rukyat hilal & qiblat verification  
+- **Scientific Writing**: jurnal internasional & nasional  
+- **HaKI & Publikasi**: pendampingan publikasi akademik  
+
