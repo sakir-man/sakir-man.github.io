@@ -27,8 +27,6 @@ Bidang keahlian: Ilmu Falak • Crescent Visibility • Kalender Hijriah
 | 2010–2012 | S2 Studi Islam | IAIN Walisongo Semarang | Beasiswa Pascasarjana |
 | 2005–2009 | S1 Hukum Islam | UIN Sunan Kalijaga Yogyakarta | Beasiswa BI |
 
-
-
 ---
 
 # **2. Research & Publications / Penelitian & Publikasi Ilmiah**
@@ -44,7 +42,7 @@ Berikut bidang penelitian utama:
 - Metodologi fiqh dan studi hukum Islam
  
 ### **Publikasi Pilihan**
-(Beberapa contoh – sisanya otomatis tertaut ke halaman publikasi)
+(Beberapa publikasi pilihan: 
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -71,10 +69,6 @@ Kegiatan PkM yang pernah dilakukan:
 - Penguatan kapasitas takmir masjid dan masyarakat  
 - Pembinaan sosial-keagamaan masyarakat  
 
-Contoh publikasi PkM:
-- Sakirman dkk. **“Penguatan Kapasitas Mengukur dan Verifikasi Arah Kiblat…”** *GUYUB*, 2023.  
-- Sakirman dkk. **“Pelatihan Penentuan Arah Kiblat bagi Santri PPHQ.”** *DEVOSI*, 2023.
-
 ---
 
 # **5. Supporting Activities / Penunjang Akademik**
@@ -88,12 +82,6 @@ Contoh publikasi PkM:
 - Pendampingan publikasi ilmiah  
 - Pembimbing KKN, skripsi, tesis
   
-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
 ---
 
 # **6. Expertise / Keahlian**
@@ -103,5 +91,13 @@ Contoh publikasi PkM:
 - **Data Analysis**: hilal modeling, syafaq analysis  
 - **Field Observation**: rukyat hilal & qiblat verification  
 - **Scientific Writing**: jurnal internasional & nasional  
-- **HaKI & Publikasi**: pendampingan publikasi akademik  
+- **HaKI & Publikasi**: pendampingan publikasi akademik
+  
 
+- Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+---
