@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A complete version of my Curriculum Vitae can be accessed  
-👉 <a href="https://drive.google.com/file/d/1e2tmjTMrLDiJqD2fY4-tfhJyz3q2aZk4/view?usp=drive_link">here</a>.
+A complete version of my CV can be accessed 👉 <a href="https://drive.google.com/file/d/1e2tmjTMrLDiJqD2fY4-tfhJyz3q2aZk4/view?usp=drive_link">here</a>.
 
 # **Dr. Sakirman, S.H.I., M.S.I.**
 Lecturer, Faculty of Sharia & Graduate School  
