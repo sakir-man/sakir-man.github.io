@@ -7,12 +7,6 @@ redirect_from:
   - /resume
 ---
 
----
-layout: single
-title: "Professional Services / Layanan Profesional"
-permalink: /service/
----
-
 # **Professional Services / Layanan Profesional**
 
 Below is a collection of academic, scientific, and professional services related to Islamic astronomy (falak), Islamic law, research development, and scientific publications.  
