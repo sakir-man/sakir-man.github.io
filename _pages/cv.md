@@ -11,7 +11,7 @@ redirect_from:
 
 My long Curriculum Vitae can be seen <a href="https://drive.google.com/file/d/1e2tmjTMrLDiJqD2fY4-tfhJyz3q2aZk4/view?usp=drive_link">here</a>
 
-# **Curriculum Vitae — Dr. Sakirman, S.H.I., M.S.I.**
+# **Dr. Sakirman, S.H.I., M.S.I.**
 
 Dosen Fakultas Syariah dan Program Pascasarjana  
 UIN Jurai Siwo Lampung  
