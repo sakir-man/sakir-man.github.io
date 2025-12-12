@@ -47,6 +47,20 @@ Berikut bidang penelitian utama:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+# **3. Teaching / Pengajaran**
+
+Daftar lengkap tersedia di halaman **[Teaching](/teaching/)**  
+Beberapa mata kuliah yang pernah diampu:
+
+- Ilmu Falak
+- Ilmu Falak Lanjutan  
+- Filsafat Hukum Islam  
+- Fiqh Lingkungan  
+- Studi Islam & Moderasi Beragama  
+- Qawaid Fiqhiyyah  
+- Sosiologi Hukum  
+- Filsafat dan Integrasi Keilmuan  
+  
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
