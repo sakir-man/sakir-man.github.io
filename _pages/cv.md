@@ -58,8 +58,6 @@ Berikut bidang penelitian utama:
   
 # **4. Community Service / Pengabdian kepada Masyarakat**
 
-Kegiatan PkM yang pernah dilakukan:
-
 - Pelatihan penentuan arah kiblat untuk masjid & pesantren  
 - Pelatihan rukyat hilal tingkat daerah & nasional  
 - Penyuluhan hukum keluarga Islam  
