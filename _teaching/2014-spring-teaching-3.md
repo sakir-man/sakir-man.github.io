@@ -16,7 +16,7 @@ Daftar Hadir <a href="https://elearning.metrouniv.ac.id/syariah/">can be seen he
 RPS <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
 ======
 
-Materi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+Materi <a href="https://sakirmanweb.blogspot.com/2023/09/praktikum-penyelenggaraan-syariah.html">can be seen here</a> 
 ======
 
 Tugas <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
