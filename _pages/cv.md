@@ -70,7 +70,7 @@ Bidang keahlian: Ilmu Falak • Crescent Visibility • Kalender Hijriah
 - Penulis buku / book chapter  
 - Konsultan arah kiblat & kalender hijriah  
 - Pengembangan website akademik  
-- Pengelolaan dan pendampingan HaKI (Hak Kekayaan Intelektual)  
+- Pengelolaan dan pendampingan HaKI (Hak Kekayaan Intelektual) can be seen <a href="https://linktr.ee/Eclipse_Pedia">here</a>
 - Pendampingan publikasi ilmiah  
 - Pembimbing KKN, skripsi, tesis
   
