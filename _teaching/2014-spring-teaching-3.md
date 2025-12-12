@@ -8,20 +8,20 @@ date: 2025-01-01
 location: "UIN Jurai Siwo Lampung"
 ---
 
-This course serves as an introductory preparation for practical training at the Office of Religious Affairs (KUA) and the Religious Court (PA). The KUA is responsible for marriage administration, including the registration and recording of marriages, issuing marriage recommendation letters, receiving and correcting marital data, and providing certificates of marital status. The Religious Court (PA) holds broader authority, handling various matters such as marriage cases (including polygamy permits, marriage prevention, refusal and annulment, negligence claims, divorce, and joint property settlement) as well as issues related to inheritance, wills, grants, waqf, zakat, infaq, sadaqah, and Islamic economic disputes.
+Mata kuliah ini membahas peran dan kewenangan Kantor Urusan Agama (KUA) dan Pengadilan Agama (PA). Mahasiswa diperkenalkan pada tugas KUA dalam administrasi pernikahan serta kewenangan PA dalam menangani perkara keluarga Islam, seperti pernikahan, perceraian, harta bersama, waris, dan wakaf. Melalui materi dan diskusi, mahasiswa dilatih memahami alur kerja dan regulasi sebagai bekal untuk praktik lapangan.
 
-Daftar Hadir <a href="https://elearning.metrouniv.ac.id/syariah/">can be seen here</a> 
+Daftar Hadir <a href="https://elearning.metrouniv.ac.id/syariah/">klik</a> 
 ======
 
-RPS <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+RPS <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">klik</a> 
 ======
 
-Materi <a href="https://sakirmanweb.blogspot.com/2023/09/praktikum-penyelenggaraan-syariah.html">can be seen here</a> 
+Materi <a href="https://sakirmanweb.blogspot.com/2023/09/praktikum-penyelenggaraan-syariah.html">unduh</a> 
 ======
 
-Tugas <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+Tugas <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">klik</a> 
 ======
 
-Dokumentasi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">can be seen here</a> 
+Dokumentasi <a href="https://photos.app.goo.gl/3DTMH5ALdXL2ZiAP9">lihat</a> 
 ======
 
