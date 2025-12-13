@@ -3,16 +3,18 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+
+{% include base_path %}
+
 ## Research Roadmap: Crescent Visibility & Islamic Astronomy
 
 This roadmap outlines the key stages and thematic directions for investigating crescent visibility (hilal), integrating astronomical, atmospheric, computational, and jurisprudential perspectives.
 
-<img src="{{ site.baseurl }}images/roadmap.jpg" 
-     alt="Research" 
-     style="width:100%; max-width:900px;">
+<img src="{{ site.baseurl }}/images/roadmap.jpg"
+     alt="Research roadmap of crescent visibility"
+     style="width:100%; max-width:900px; margin-bottom:2rem;">
+900px;">
 
 
 ### 1. Fundamental Study — Astronomical Basis
