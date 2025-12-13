@@ -10,7 +10,10 @@ redirect_from:
 
 This roadmap outlines the key stages and thematic directions for investigating crescent visibility (hilal), integrating astronomical, atmospheric, computational, and jurisprudential perspectives.
 
-<img src="/images/roadmap.jpg" alt="gambar 1" _mstalt="38623" _msthash="18">
+<img src="{{ site.baseurl }}/images/roadmap.jpg" 
+     alt="Research roadmap on crescent visibility" 
+     style="width:100%; max-width:900px;">
+
 
 ### 1. Fundamental Study — Astronomical Basis
 - Geometric analysis of Moon–Earth–Sun relationships  
