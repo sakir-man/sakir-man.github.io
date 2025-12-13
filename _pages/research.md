@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+![fig1](/images/Roadmap.png)
 
 ## Research Roadmap: Crescent Visibility & Islamic Astronomy
 
