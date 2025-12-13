@@ -19,7 +19,10 @@ RPS <a href="https://elearning.metrouniv.ac.id/pasca/">klik</a>
 Materi <a href="https://drive.google.com/drive/folders/1qG0aC4lc0sjyDMxWGFpXFnyK5HVJEBeD?usp=sharing">unduh</a>
 ======
 
-Tugas <a href="https://elearning.metrouniv.ac.id/pasca/">klik</a>
+Tugas UTS (Revisi Makalah) <a href="https://elearning.metrouniv.ac.id/pasca/">upload</a>
+======
+
+Tugas UAS (Soal) <a href="https://elearning.metrouniv.ac.id/pasca/">klik</a>
 ======
 
 Dokumentasi <a href="https://photos.app.goo.gl/uyV2eS7XSVgxyBiY9">lihat</a>
