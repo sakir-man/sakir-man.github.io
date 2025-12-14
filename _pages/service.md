@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-**Professional Services**
-A concise overview of academic, scientific, and consultancy services related to Islamic astronomy, Islamic law, and research development.
+## 🧭 Layanan Profesional
+Halaman ini memuat layanan akademik, publikasi ilmiah, dan konsultasi ilmu falak.
+
 ### 🎓 Layanan Akademik
 - 📘 Portal Layanan Akademik Program Pascasarjana (S2 Hukum Keluarga Islam)  
 - 👨‍🏫 Pendampingan akademik mahasiswa (perkuliahan, tugas akhir, dan riset)  
