@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Sakirman, M.SI"
+title                    : "Dr. Sakirman, M.S.I"
 title_separator          : "-"
 name                     : &name "Dr. Sakirman, M.S.I"
 description              : &description "Researcher in Islamic astronomy, focusing on the legal, astronomical, and calendrical aspects of lunar observation."
