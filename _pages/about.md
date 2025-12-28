@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Sakirman is a lecturer at the Faculty of Sharia and the Graduate Program of UIN Jurai Siwo Lampung. He is currently serving as Secretary of the Master’s Program in Islamic Family Law at the Graduate Program of UIN Jurai Siwo Lampung and as Editor in Chief of <a href="https://e-journal.metrouniv.ac.id/istinbath/index">Istinbath: Jurnal Hukum</a> .
+Dr. Sakirman is a lecturer at the Faculty of Sharia and the Graduate Program of UIN Jurai Siwo Lampung. He is currently serving as Secretary of the Master’s Program in Islamic Family Law at the Graduate Program of UIN Jurai Siwo Lampung and as Editor in Chief of <a href="https://e-journal.metrouniv.ac.id/istinbath/index">Istinbath: Jurnal Hukum</a>.
 
 He earned his Bachelor’s degree in Islamic Law from UIN Sunan Kalijaga Yogyakarta (2005–2009), followed by a Master’s degree in Islamic Studies at IAIN Walisongo Semarang (2010–2012). He later completed his Ph.D. in Islamic Studies at UIN Walisongo through the Ministry of Religious Affairs’ prestigious 5000 Doctoral Scholarship Program (2017–2020).
 
