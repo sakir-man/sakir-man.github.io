@@ -15,10 +15,6 @@ Halaman ini memuat layanan akademik, publikasi ilmiah, dan konsultasi ilmu falak
 - 🧩 Konsultasi pengembangan kurikulum dan mata kuliah  
 
 ### 📝 Layanan Publikasi Ilmiah
-- 📚 Indonesian Financial Accounting Journal (IFAC)  <a href="https://linktr.ee/S2HKIUINJUSILA">klik</a> 
-- 📖 Contemporary Islamic Law Journal  <a href="https://linktr.ee/S2HKIUINJUSILA">klik</a>   
-- 🌙 Journal of Islamic Astronomy  <a href="https://linktr.ee/S2HKIUINJUSILA">klik</a>   
-- 🕌 Theologia: Journal of Islamic Studies  <a href="https://linktr.ee/S2HKIUINJUSILA">klik</a>   
 - ©️ Pendampingan pendaftaran **HaKI**  <a href="https://linktr.ee/S2HKIUINJUSILA">klik</a>   
 - ✍️ Konsultasi penulisan & penerbitan  <a href="https://linktr.ee/S2HKIUINJUSILA">klik</a>  
 
