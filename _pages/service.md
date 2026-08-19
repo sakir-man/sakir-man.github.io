@@ -4,12 +4,8 @@ title: "Service"
 permalink: /service/
 author_profile: true
 ---
-
-## Service
-
 ### Editorial Service
 - Editor-in-Chief, *Istinbath: Jurnal Hukum*, UIN Jurai Siwo Lampung.
-- Managing and coordinating editorial processes for academic journal publication.
 
 ### Academic and Professional Service
 - Reviewer for academic journals in Islamic law, Islamic astronomy, and Islamic studies.
