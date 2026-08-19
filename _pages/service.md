@@ -1,11 +1,24 @@
 ---
-title: "Ilmu Falak: Teori dan Praktik Rukyat Hilal"
-collection: publications
-category: books
-permalink: /publication/ilmu-falak-teori-praktik-rukyat-hilal
-excerpt: "Author: Sakirman"
-date: 2024-01-01
-venue: "Penerbit A"
+layout: archive
+title: "Service"
+permalink: /service/
+author_profile: true
 ---
 
-Buku ini membahas dasar-dasar ilmu falak, metode rukyat hilal, perhitungan awal bulan Hijriah, dan dinamika penetapan kalender Islam di Indonesia.
+## Service
+
+### Editorial Service
+- Editor-in-Chief, *Istinbath: Jurnal Hukum*, UIN Jurai Siwo Lampung.
+- Managing and coordinating editorial processes for academic journal publication.
+
+### Academic and Professional Service
+- Reviewer for academic journals in Islamic law, Islamic astronomy, and Islamic studies.
+- Resource person in academic forums related to Islamic law, *ilmu falak*, lunar observation, and Islamic calendar systems.
+
+### Community Engagement
+- Speaker and trainer in workshops on Islamic astronomy, *rukyat hilal*, and Islamic calendar systems.
+- Facilitator in public education programs related to Islamic legal literacy and astronomical observation.
+
+### Institutional Service
+- Secretary of the Doctoral Program in Sharia Studies, Graduate Program of UIN Jurai Siwo Lampung.
+- Member of academic committees related to curriculum development, research, and postgraduate academic affairs.
