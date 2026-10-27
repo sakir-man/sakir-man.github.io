@@ -37,9 +37,10 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9867-6505"
   semantic         : # URL
-  pubmed           : "https://www.webofscience.com/wos/author/record/AEX-6412-2022"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Sakirman-Msi?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58665475300"
+  Web of Science   : "https://www.webofscience.com/wos/author/record/AEX-6412-2022"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
