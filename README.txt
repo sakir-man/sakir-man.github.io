@@ -1,1 +1,0 @@
-FINAL flat GitHub Pages package. Upload all files to the repository root. This version uses images/profile.png already present in the existing repository; if missing, an automatic text fallback appears.
